@@ -1,0 +1,30 @@
+#name {
+    color: rgb(105, 0, 0);
+}
+#otherpage {
+    color: rgb(97, 68, 0);
+}
+#sectionbox {
+    border: 10px solid rgb(71, 71, 71);
+    background-color: rgb(255, 224, 163);
+    padding: 4px;
+    width: 700px;
+}
+#contact_sectionbox {
+    border: 10px solid rgb(71, 71, 71);
+    background-color: rgb(255, 224, 163);
+    padding: 4px;
+    width: 500px;
+}
+#hobbies_sectionbox {
+    border: 10px solid rgb(71, 71, 71);
+    background-color: rgb(255, 224, 163);
+    padding: 4px;
+    width: 450px;
+}
+#section {
+    color: rgb(32, 23, 23);
+}
+#page {
+    background-color: rgb(224, 224, 224);
+}
